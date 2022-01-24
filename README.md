@@ -1,5 +1,5 @@
 # CPBot
-需要的PHP版本：![PHP-Version](https://img.shields.io/badge/php-5.3.3%2B-blue)
+需要的PHP版本：![PHP-Version](https://img.shields.io/badge/php-7.0%2B-blue)
 
 CPBot(CQHTTP PHP Bot)是基于 [Workerman](https://www.workerman.net/) 与 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 制作的PHP SDK，旨在帮助PHP用户快速开发和使用go-cqhttp机器人。
 
@@ -9,9 +9,9 @@ CPBot(CQHTTP PHP Bot)是基于 [Workerman](https://www.workerman.net/) 与 [go-c
 
 编辑插件配置文件，在需要的账号下打开WS连接
 
-在[Releases](https://github.com/endymx/MPBot/releases)下载MPBot最新的版本
+在[Releases](https://github.com/endymx/CPBot/releases)下载CPBot稳定版本或直接下载代码使用最新版本
 
-配置环境，PHP版本应>=5.4，建议>=7.0，使用>=8.0会获得更高的性能
+配置环境，PHP版本应>=7.0，使用>=8.0会获得更高的性能，PHP5因为性能和兼容性支持被弃用。
 
 ### Windows下
 下载PHP：[PHP Windows 下载方法](https://www.workerman.net/windows)
